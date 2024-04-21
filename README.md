@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learn Python, Design Web, Big data and automatization of task
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ALL
-- 📫 How to reach me richard_ah@outlook.es
+- 📫 How to reach me rich-aguirreh@gmail.com
 
 <!---
 RiichiAgrr/RiichiAgrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
